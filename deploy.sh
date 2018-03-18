@@ -1,1 +1,2 @@
-docker run -it --rm -p 8888:8888 --name r-notebook -v ./:/home/jovyan/work jupyter/r-notebook
+#!/usr/bin/env bash
+docker-compose down && docker-compose rm -v && docker-compose build && docker-compose up 
