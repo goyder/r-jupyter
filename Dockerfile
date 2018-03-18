@@ -1,0 +1,2 @@
+FROM jupyter/r-notebook
+
