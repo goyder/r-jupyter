@@ -6,3 +6,4 @@ github_credentials.json
 *.for
 *.xlsx
 *.xml
+CourseProject/data/*
