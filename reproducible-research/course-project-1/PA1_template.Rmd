@@ -1,0 +1,17 @@
+---
+title: "PA1_template"
+author: "Goyder"
+date: "April 7, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Obtaining the code
+
+```{r data_pull}
+if 
+
+```
