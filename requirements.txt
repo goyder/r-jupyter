@@ -1,0 +1,9 @@
+r-xlsx
+r-data.table
+r-rmysql
+r-rjava
+r-xml
+r-hmisc
+r-httpuv
+r-jpeg
+r-sqldf
